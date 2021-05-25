@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a35971a_002D5274_002D42d2_002Db8bb_002D3bdf62259886/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OpenDevice_DeviceAttached_ConnectedIsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::69424629-34EF-4504-8430-B41AB76CEEAC::net5.0::IntegrationTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc2f3af8_002Dc61a_002D451d_002Da99c_002D946e1e4c396a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BlinkStick_DeviceAttached_ShouldBlink" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::69424629-34EF-4504-8430-B41AB76CEEAC::net5.0::IntegrationTests.Tests.FindFirst_DeviceAttached_ShouldNotBenull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::69424629-34EF-4504-8430-B41AB76CEEAC::net5.0::IntegrationTests.Tests.OpenDevice_DeviceAttached_ConnectedIsTrue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

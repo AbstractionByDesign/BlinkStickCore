@@ -1,0 +1,12 @@
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\bin\Debug\net5.0\BlinkStickCore.deps.json
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\bin\Debug\net5.0\BlinkStickCore.dll
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\bin\Debug\net5.0\ref\BlinkStickCore.dll
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\bin\Debug\net5.0\BlinkStickCore.pdb
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.csproj.AssemblyReference.cache
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.AssemblyInfoInputs.cache
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.AssemblyInfo.cs
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.csproj.CoreCompileInputs.cache
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.dll
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\ref\BlinkStickCore.dll
+C:\DataScope\Repos\BlinkStickCore\BlinkStickCore\obj\Debug\net5.0\BlinkStickCore.pdb
